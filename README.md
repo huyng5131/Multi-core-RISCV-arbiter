@@ -31,7 +31,7 @@ To run the simulation:
 6. View the Waveform to verify the `valid`/`ready` handshake and the +4 increment of the Program Counters.
 
 ## 👨‍💻 Authors
-* **Nguyễn Đình Huy** - GitHub: [@huyng5131](https://github.com/huyng5131)
+* **Nguyễn Đình Huy** 
 * **Nguyễn Gia Huy**
 
 Computer Engineering Students @ University of Information Technology (UIT) - VNUHCM.
