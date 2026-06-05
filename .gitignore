@@ -1,0 +1,14 @@
+# Bỏ qua thư mục chứa file biên dịch của ModelSim
+work/
+
+# Bỏ qua các file waveform và log mô phỏng (dung lượng rất nặng)
+*.wlf
+*.vcd
+
+# Bỏ qua các file backup và file rác do tool tự sinh ra
+*.bak
+*.mti
+*.mpf
+
+# Bỏ qua file log mặc định của ModelSim (nếu có)
+transcript
